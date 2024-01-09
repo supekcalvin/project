@@ -1,3 +1,5 @@
 Domain1 vpn-slowdns.biz.id
+Domain2 vpn-vip.biz.id
+Domain3 vpn-premi.biz.id
 
-Jumlah 1
+Jumlah 3
