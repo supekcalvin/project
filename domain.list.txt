@@ -1,7 +1,0 @@
-Domain1 angka.my.id
-Domain2 mapin.my.id
-Domain3 pinjem.my.id
-Domain4 propok.my.id
-Domain5 tarik.my.id
-
-Jumlah 5
